@@ -3,10 +3,10 @@ package com.hhr.test.utils;
 public class Messages {
 
     public static final String PARAM_ERROR
-            = "{\"errorCode\":\"10001\";\"errorMsg\":\"parameter # validation failed\"}";
+            = "{\"errorCode\":\"10001\",\"errorMsg\":\"parameter # validation failed\"}";
 
     public static final String LOGIN_FAILED
-            = "{\"errorCode\":\"10002\";\"errorMsg\":\"login failed\"}";
+            = "{\"errorCode\":\"10002\",\"errorMsg\":\"login failed\"}";
 
     public static final String SUCCESS
             = "{\"result\":\"0\",\"msg\":\"success\"}";
